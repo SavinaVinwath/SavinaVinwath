@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **c , java script , java**
 
-- 🔗 Visit My Portfolio [savinavinwath.social](savinavinwath.social)
+- 🔗 Visit My Portfolio [savinavinwath.social](https://savinavinwath.social/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
